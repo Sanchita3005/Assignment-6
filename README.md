@@ -1,8 +1,6 @@
-# Assignment-6
-Python codding
+assignment 6
 
-Question 1 : 
-
+Question 1 
 
 a = [10, 20, 30, 40]
 
@@ -19,27 +17,23 @@ True
 True
 
 
-
-
-Question 2: 
+Question 2
 
 a = [10, 20, 30, 40, 50]
 
-print(a[0])      # first element
-print(a[-1])     # last element
-print(a[1:4])    # slicing
+print(a[0])      
+print(a[-1])     
+print(a[1:4])
 
 
 OUTPUT
 
 10
 50
-[20 , 30 , 40]
+[20, 30, 40]
 
 
-
-
-Question 3:
+Question 3
 
 a = [1, 2, 3, 4]
 
@@ -57,7 +51,6 @@ print(a)
 
 
 
-
 OUTPUT
 
 [1, 20, 3, 4]
@@ -67,9 +60,7 @@ OUTPUT
 
 
 
-
-Question 4 : 
-
+Question 4
 
 a = [1, 2, 3]
 b = [4, 5]
@@ -84,7 +75,6 @@ print(max(a))
 print(min(a))
 
 
-
 OUTPUT
 
 [1, 2, 3, 4, 5]
@@ -92,3 +82,5 @@ OUTPUT
 3
 3
 1
+
+
